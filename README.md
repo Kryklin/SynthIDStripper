@@ -1,10 +1,10 @@
 # 🛡️ SynthIDStripper (LexiconStripper)
 
-[![Rust Stable](https://img.shields.io/badge/Rust-1.75%2B-orange.svg?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![Zero AI in the Loop](https://img.shields.io/badge/AI%20in%20Loop-0%25%20(Deterministic)-blue.svg?style=for-the-badge)](https://github.com)
-[![Automated Tests](https://img.shields.io/badge/Tests-61%20Passed%20%7C%2017%20Suites-brightgreen.svg?style=for-the-badge)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=for-the-badge)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+<p align="center">
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+</p>
 
 > **A production-grade, zero-AI deterministic computational linguistics engine that neutralizes statistical AI watermarks (Google DeepMind SynthID, Kirchenbauer et al.) and humanizes machine-generated text while guaranteeing 100% domain terminology preservation.**
 
