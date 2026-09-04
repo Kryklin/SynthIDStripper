@@ -1,0 +1,7 @@
+{
+  "id": "sample_001",
+  "domain": "open_domain_qa",
+  "question": "what composer used sound mass",
+  "word_count": 230,
+  "source_dataset": "HC3"
+}

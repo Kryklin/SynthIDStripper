@@ -1,0 +1,13 @@
+Automated reasoning is the process of using a computer program to automatically deduce new conclusions from a set of given statements or axioms. It is a subfield of artificial intelligence and computer science that is concerned with the development of algorithms and systems that can reason logically and make decisions based on logical deductions from known facts or axioms.
+
+
+
+Automated reasoning has a wide range of applications, including theorem proving, diagnosis, planning, and natural language processing. It is used in various fields such as mathematics, computer science, engineering, and artificial intelligence to perform tasks that would be infeasible or impractical for humans to do manually.
+
+
+
+There are several different approaches to automated reasoning, including rule-based systems, resolution-based systems, model-based systems, and hybrid systems that combine multiple approaches. These systems can use various logical formalisms, such as propositional logic, first-order logic, and higher-order logics, to represent and reason about knowledge.
+
+
+
+In summary, automated reasoning is the process of using a computer program to reason logically and make decisions based on known facts or axioms. It is a powerful tool for solving complex problems and performing tasks that would be infeasible for humans to do manually.

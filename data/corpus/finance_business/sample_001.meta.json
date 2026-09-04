@@ -1,0 +1,7 @@
+{
+  "id": "sample_001",
+  "domain": "finance_business",
+  "question": "Historical P/E ratios of small-cap vs. large-cap stocks?",
+  "word_count": 185,
+  "source_dataset": "HC3"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sample_005",
+  "domain": "biomedical_science",
+  "question": "What are the side effects of changing the medication?I am cuurently and permanently on warfarin, and in one week s time I am to undergo surgery to have tor tendons repaired in my right shoulder. I have been directed to change temperarily from warfarin to glexane for six days prior to my surgery. I have been on warfarin for three years since a mechanical aortic valve was implanted during open heart surgery.What side effects should I expect? Thankyou",
+  "word_count": 279,
+  "source_dataset": "HC3"
+}

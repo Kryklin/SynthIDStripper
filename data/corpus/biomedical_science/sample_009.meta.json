@@ -1,0 +1,7 @@
+{
+  "id": "sample_009",
+  "domain": "biomedical_science",
+  "question": "Suggest me treatment for blood pressure, cholesterol and diabetes.I am 44 years old. Both parents have blood pressure, cholesterol, and diabetes. I have all these too. I do not have any insurance and only work part time. I only make $7.25 an hour and do not qualify for Medicaid. I weigh 250 and can not afford to see doctors and get prescriptions for meds that I know I should be on. I do try to take vitamins and fish oil pills to help. What can help me?",
+  "word_count": 299,
+  "source_dataset": "HC3"
+}

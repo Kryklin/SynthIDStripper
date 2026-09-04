@@ -1,0 +1,15 @@
+/target
+/dist
+*.zip
+*.log
+*.tmp
+.DS_Store
+
+# Upstream DeepMind repository clone
+/synthid_official/
+synthid_official/
+synthid_official
+synthid-official/
+synthid-official
+
+

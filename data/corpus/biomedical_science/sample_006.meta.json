@@ -1,0 +1,7 @@
+{
+  "id": "sample_006",
+  "domain": "biomedical_science",
+  "question": "What causes pressure and tightness in the chest region?Hello Doctor, Thanks for your time. I have been having some pressure / tightness in my chest region lately. I do not smoke or consume alcohol etc. I however sit for extended periods of time, as I am in IT industry. Could my occupation be causing this pain?",
+  "word_count": 178,
+  "source_dataset": "HC3"
+}

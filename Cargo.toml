@@ -1,0 +1,26 @@
+[package]
+name = "lexicon_stripper"
+version = "0.1.0"
+edition = "2021"
+authors = ["Antigravity"]
+description = "A semantic-preserving lexical transformation engine without AI models in the processing loop"
+
+[lib]
+name = "lexicon_stripper"
+path = "src/lib.rs"
+
+[[bin]]
+name = "lexicon_stripper"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive", "env"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rand = { version = "0.8", features = ["small_rng"] }
+regex = "1.10"
+colored = "2.1"
+lazy_static = "1.4"
+ureq = { version = "2.9", features = ["json"] }
+sha2 = "0.10"
+chrono = { version = "0.4", default-features = false, features = ["std", "clock"] }
