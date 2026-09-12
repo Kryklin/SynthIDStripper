@@ -1,5 +1,6 @@
 /target
-/dist
+/dist/*.exe
+!/dist/README.md
 *.zip
 *.log
 *.tmp
