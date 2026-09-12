@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Target_Commit-4ed1f23-green?style=for-the-badge" alt="Target Commit">
+  <img src="https://img.shields.io/badge/Target_Commit-v1.0.0-green?style=for-the-badge" alt="Target Commit">
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License">
 </p>
 <p align="center">
@@ -40,7 +40,7 @@ The **SynthIDStripper (LexiconStripper)** suite is a production-grade, sovereign
 > **Watermark Neutralization & Parity Target Specification**:
 >
 > - **Target Release**: `v1.0.0`
-> - **Target Git Commit**: [`4ed1f23`](https://github.com/Kryklin/SynthIDStripper/commit/4ed1f232a30a5ac572bad3c3611a54405f2b3a1e)
+> - **Target Git Tag**: [`v1.0.0`](https://github.com/Kryklin/SynthIDStripper/releases/tag/v1.0.0)
 > - **Canonical Repository**: [https://github.com/Kryklin/SynthIDStripper](https://github.com/Kryklin/SynthIDStripper)
 > - **Target Scope**: Mathematical 1:1 parity with DeepMind's `google-deepmind/synthid-text` (LCG hashing, tournament sampling, mean hypothesis testing) and Kirchenbauer's red-green partitioning.
 >
