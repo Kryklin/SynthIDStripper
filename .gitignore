@@ -1,4 +1,5 @@
 /target
+/out-releases
 /dist/*.exe
 !/dist/README.md
 *.zip

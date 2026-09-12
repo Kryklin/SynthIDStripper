@@ -1,9 +1,11 @@
 [package]
 name = "lexicon_stripper"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
-authors = ["Antigravity"]
+authors = ["Kalem Slight <kalemslight@gmail.com>"]
 description = "A semantic-preserving lexical transformation engine without AI models in the processing loop"
+license = "MIT"
+repository = "https://github.com/Kryklin/SynthIDStripper"
 
 [lib]
 name = "lexicon_stripper"
